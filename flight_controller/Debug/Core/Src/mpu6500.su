@@ -1,0 +1,7 @@
+../Core/Src/mpu6500.c:14:18:mpu6500_read_byte	48	static
+../Core/Src/mpu6500.c:24:18:mpu6500_read	48	static
+../Core/Src/mpu6500.c:34:18:mpu6500_write_byte	40	static
+../Core/Src/mpu6500.c:46:18:mpu6500_init	24	static
+../Core/Src/mpu6500.c:92:19:mpu6500_read_accelerometer_data	32	static
+../Core/Src/mpu6500.c:116:22:mpu6500_accelerometer_calibration	32	static
+../Core/Src/mpu6500.c:129:18:mpu6500_configure_low_pass_filter	24	static
